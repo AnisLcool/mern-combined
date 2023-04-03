@@ -2,7 +2,7 @@
     "env": {
         "DB_USER":"lcool",
         "DB_PASSWORD" : "mongo17",
-        "DB_NAME":"mern",
+        "DB_NAME":"mern-combined",
         "GOOGLE_API_KEY":"AIzaSyCScSgpC7yQWNZq28QLhtBfKygIH6cemO0",
         "JWT_KEY": "SUPER_SECRET_DONT_SHARE"
     }

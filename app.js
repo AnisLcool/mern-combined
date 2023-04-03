@@ -8,8 +8,8 @@ const HttpError = require('./models/http-error');
 
 const placesRouter = require('./routes/places-routes');
 const usersRouter = require('./routes/users-routes');
-
-
+console.log('hi');
+console.log(process.env.DB_NAME);
 const DB_URL = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.fvu0lck.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`
 
 const app = express();
