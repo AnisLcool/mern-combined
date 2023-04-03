@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.804c6f8c.css",
+    "main.js": "/static/js/main.fef113ec.js",
+    "static/css/682.01329261.chunk.css": "/static/css/682.01329261.chunk.css",
+    "static/js/682.8ac9b81e.chunk.js": "/static/js/682.8ac9b81e.chunk.js",
+    "static/css/849.bf50b6ad.chunk.css": "/static/css/849.bf50b6ad.chunk.css",
+    "static/js/849.7bdd8cf1.chunk.js": "/static/js/849.7bdd8cf1.chunk.js",
+    "static/css/766.8e1935bb.chunk.css": "/static/css/766.8e1935bb.chunk.css",
+    "static/js/766.6e74152c.chunk.js": "/static/js/766.6e74152c.chunk.js",
+    "static/css/75.8435be6c.chunk.css": "/static/css/75.8435be6c.chunk.css",
+    "static/js/75.35b1c964.chunk.js": "/static/js/75.35b1c964.chunk.js",
+    "static/css/364.7fc82f33.chunk.css": "/static/css/364.7fc82f33.chunk.css",
+    "static/js/364.44987c20.chunk.js": "/static/js/364.44987c20.chunk.js",
+    "static/js/160.9c7515f2.chunk.js": "/static/js/160.9c7515f2.chunk.js",
+    "index.html": "/index.html",
+    "main.804c6f8c.css.map": "/static/css/main.804c6f8c.css.map",
+    "main.fef113ec.js.map": "/static/js/main.fef113ec.js.map",
+    "682.01329261.chunk.css.map": "/static/css/682.01329261.chunk.css.map",
+    "682.8ac9b81e.chunk.js.map": "/static/js/682.8ac9b81e.chunk.js.map",
+    "849.bf50b6ad.chunk.css.map": "/static/css/849.bf50b6ad.chunk.css.map",
+    "849.7bdd8cf1.chunk.js.map": "/static/js/849.7bdd8cf1.chunk.js.map",
+    "766.8e1935bb.chunk.css.map": "/static/css/766.8e1935bb.chunk.css.map",
+    "766.6e74152c.chunk.js.map": "/static/js/766.6e74152c.chunk.js.map",
+    "75.8435be6c.chunk.css.map": "/static/css/75.8435be6c.chunk.css.map",
+    "75.35b1c964.chunk.js.map": "/static/js/75.35b1c964.chunk.js.map",
+    "364.7fc82f33.chunk.css.map": "/static/css/364.7fc82f33.chunk.css.map",
+    "364.44987c20.chunk.js.map": "/static/js/364.44987c20.chunk.js.map",
+    "160.9c7515f2.chunk.js.map": "/static/js/160.9c7515f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804c6f8c.css",
+    "static/js/main.fef113ec.js"
+  ]
+}
